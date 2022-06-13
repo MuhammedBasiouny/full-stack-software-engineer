@@ -2,26 +2,26 @@
 
 #### includes:
 
-**1.** **HTML**
-**2.** **CSS**
-**3.** **Web Accessibility**
-**4**. **JavaScript**
-**5**. **React & Redux**
-**6.** **Testing**
-**7.** **Git and GitHub**
-**8.** **Node.js & Express.js**
-**9.** **Database**
-**10.** **Software Design Principles**
-**11.** **Web Security**
-**12.** **Data Security**
-**13.** **Common Attacks on Web Applications Operating Systems**
-**14.** **Caching and CDNs**
-**15.** **Scalability**
-**16.** **DevOps**
-**17.** **Linear Data Structures**
-**18.** **Complex Data Structures**
-**19.** **Algorithms**
-**20.** **Search and Graph Search Algorithms**
+1. HTML
+2. CSS
+3. Web Accessibility
+4. JavaScript
+5. React & Redux
+6. Testing
+7. Git and GitHub
+8. Node.js & Express.js
+9. Database
+10. Software Design Principles
+11. Web Security
+12. Data Security
+13. Common Attacks on Web Applications Operating Systems
+14. Caching and CDNs
+15. Scalability
+16. DevOps
+17. Linear Data Structures
+18. Complex Data Structures
+19. Algorithms
+20. Search and Graph Search Algorithms
 
 ### JavaScript
 
