@@ -32,7 +32,7 @@
 - [ ] 028 - APIs and HTTP Requests
 - [ ] 029 - JavaScript Requests
 
-### React
+### React & Redux
 
 - [ ] 030 - Introduction: React, Part I
 - [ ] 031 - The Virtual DOM
