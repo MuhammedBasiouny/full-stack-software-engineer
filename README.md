@@ -54,17 +54,17 @@
 - [ ] 047 - Git Branching
 - [ ] 048 - Git Teamwork
 
-### Back-End Development
+### Node.js & Express.js
 
 - [ ] 049 - Back-End JavaScript with Node.js
 - [ ] 050 - Modular Development with Node.js
 - [ ] 051 - Introduction to Express.js
 - [ ] 052 - Express: Routes
 - [ ] 053 - Express: Middleware
-- [ ] 054 - Introduction: Database Basics
 
 ### Database
 
+- [ ] 054 - Introduction: Database Basics
 - [ ] 055 - Types of Databases
 - [ ] 056 - Working With Your First Database
 - [ ] 057 - Aggregate Functions
