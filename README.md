@@ -1,5 +1,7 @@
 # Codecademy Full-Stack Software Engineer Career Path
 
+![2%](https://progress-bar.dev/2/?title=Progress)
+
 #### includes:
 
 1. HTML
