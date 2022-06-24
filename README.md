@@ -28,7 +28,7 @@
 ### JavaScript
 
 - [x] 001 - JavaScript Basics `Done`
-- [x] 002 - JavaScript Conditionals
+- [x] 002 - JavaScript Conditionals `Done`
 - [ ] 003 - JavaScript Functions
 - [ ] 004 - JavaScript Scope
 - [ ] 005 - JavaScript Arrays
