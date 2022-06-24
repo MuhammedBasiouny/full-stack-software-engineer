@@ -1,6 +1,6 @@
 # Codecademy Full-Stack Software Engineer Career Path
 
-![2%](https://progress-bar.dev/2/?title=Progress)
+![3%](https://progress-bar.dev/3/?title=Progress)
 
 #### includes:
 
@@ -28,7 +28,7 @@
 ### JavaScript
 
 - [x] 001 - JavaScript Basics `Done`
-- [ ] 002 - JavaScript Conditionals
+- [x] 002 - JavaScript Conditionals
 - [ ] 003 - JavaScript Functions
 - [ ] 004 - JavaScript Scope
 - [ ] 005 - JavaScript Arrays
